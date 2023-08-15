@@ -38,4 +38,4 @@ jupyter notebook
 ```
 4. download the data set in the drive link given below to the same repository that you have created your jupyter notebook-
 : https://bit.ly/ImgClsKeras
-# Image-Classification-CNN
+
